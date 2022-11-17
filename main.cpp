@@ -6,7 +6,7 @@ int main() {
     int opzione=0;
     cin >> a >> b;
     cin >> opzione;
-    int area=0;
+  float area=0;
     switch (opzione) {
         case 0:
             area=(a*b)/2;
