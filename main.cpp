@@ -19,7 +19,7 @@ int main() {
         case 2:
             area=(a*b);
             cout << area << endl;
-            break;
+     
         default:
             cout << "opzione non valida" << endl;
     }
